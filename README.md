@@ -8,4 +8,4 @@ Test your knowledge with multiple-choice questions and get your score at the end
 📊 Score tracking
 ⏱️ Instant feedback on answers
 🔁 Replay option (if you added it)
-🖥️ Simple CLI-based interface
+🖥️ Simple CLI-based interface.
